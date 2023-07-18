@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on small-scale projects 
+- 🔭 I’m currently working on small-scale projects
 - 🌱 I’m currently learning how to train ML models 
 - 👯 I’m looking to collaborate on Data science projects in Civil Engineering
 - 🤔 I’m looking for help with advanced Machine Learning
@@ -12,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: omughelefabulous@gmail.com
 - 😄 Pronouns: Mr.
 - ⚡ Fun fact: Comedic demonstrations
-
